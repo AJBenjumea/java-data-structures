@@ -49,3 +49,5 @@ public class QueueTest {
 
         assertEquals(3, queue.getNodeVal(queue.remove()));
     }
+
+}
